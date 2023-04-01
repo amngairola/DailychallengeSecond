@@ -1,0 +1,25 @@
+.element {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+}
+
+.circle-black {
+  background-color: black;
+}
+
+.vline {
+  border-left: 3px solid;
+  height: 20vh;
+}
+.Dot {
+  margin-left: 2vh;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,64 @@
+.Card {
+  padding: 1vh;
+  width: 24%;
+  height: 20%;
+}
+.box {
+  width: 70%;
+  height: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2vh;
+}
+.font {
+  font-family: "Mulish";
+}
+
+a {
+  color: black;
+  font-weight: bold;
+  padding-top: 1vh;
+}
+
+.rightcard {
+  display: flex;
+  border: 0.3px solid rgb(235, 230, 230);
+  float: right;
+  margin-right: 19%;
+  /* margin-top: -14vh; */
+}
+
+.right-tag {
+  background: #f5f3c1;
+  padding: 1vh;
+  float: right;
+  margin-top: -2vh;
+  border-radius: 3vh;
+  width: 30%;
+  text-align: center;
+}
+.Details-right {
+  width: 50%;
+}
+
+.left-tag {
+  background: #f5f3c1;
+  width: 30%;
+  padding: 1vh;
+  border-radius: 3vh;
+  text-align: center;
+}
+.Details-left {
+  width: 50%;
+  margin-top: -4vh;
+  float: right;
+}
+
+.leftcard {
+  display: flex;
+  border: 0.3px solid rgb(235, 230, 230);
+  /* clear: both; */
+  margin-left: 17%;
+  width: 30%;
+  margin-top: 10vh;
+}
